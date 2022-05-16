@@ -1,0 +1,22 @@
+#: locale=en
+
+## Media
+
+### 360 Video
+
+### Title
+panorama_C36E427B_CCA0_6F70_41E8_4F742930AFF9.label = intro
+media_C354F0E6_CD06_78FB_41BD_E581168139EC.label = video360
+
+### Video
+videores_C2450135_CD02_395E_41E4_F392E81FB244.url = media/media_C354F0E6_CD06_78FB_41BD_E581168139EC_en.mp4
+videores_DD965E85_CD02_6B39_41DE_F1A7A8814829.url = media/media_C354F0E6_CD06_78FB_41BD_E581168139EC_en_1.mp4
+videores_C2450135_CD02_395E_41E4_F392E81FB244.posterURL = media/media_C354F0E6_CD06_78FB_41BD_E581168139EC_poster_en.jpg
+videores_DD965E85_CD02_6B39_41DE_F1A7A8814829.posterURL = media/media_C354F0E6_CD06_78FB_41BD_E581168139EC_poster_en.jpg
+
+## Tour
+
+### Description
+
+### Title
+tour.name = futebol
