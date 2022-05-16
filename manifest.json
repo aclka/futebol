@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "background_color": "#FFFFFF",
  "name": "futebol",
- "theme_color": "#FFFFFF",
  "display": "fullscreen",
- "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
